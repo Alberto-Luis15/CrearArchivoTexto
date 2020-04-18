@@ -1,0 +1,5 @@
+1 Erik Pacheco 45.00 21
+2 Jesus Mora 60.00 20
+3 Alan Alcantara 30.00 19
+4 Diego Jimenez 90.00 22
+10 Jose Miranda 70.00 18
